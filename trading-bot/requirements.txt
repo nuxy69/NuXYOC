@@ -1,0 +1,7 @@
+tradovate-api
+pandas
+numpy
+requests
+python-dotenv
+matplotlib
+scipy
